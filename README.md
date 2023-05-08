@@ -1,6 +1,6 @@
 # File Management System
 
-##### **Akdeniz Üniversitei** İnternet Programcılığı dersi Vize Projem.
+##### **Akdeniz Üniversitesi** İnternet Programcılığı dersi kapsamında hazırladığım Vize Projem.
 
 - Kurumsal yazılım modeli.
 - Servis tabanlı.
