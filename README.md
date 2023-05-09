@@ -8,6 +8,8 @@ Bu Proje Kurumsal Yazılım Modeli baz alınarak hazırlanmıştır.
 - Client – Server mimarisini baz alan.
 - Nesne yönelimli.
 - Katmanlı Yazılım Mimarisi (Layered Architecture).
+
+
   - ![](https://www.arakatman.com/arakatman/medya/katmanli-yazilim-mimarisi.webp)
 
 ### Projeyi hazırlarken faydalandığım öğretici video içerikleri
