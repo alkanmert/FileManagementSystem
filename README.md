@@ -17,3 +17,4 @@ Bu Proje Kurumsal Yazılım Modeli baz alınarak hazırlanmıştır.
 - [ASP. Net Web API 2 - Angular Material Eğitimi- _Asst. Prof. ABDÜLKADİR KOÇER_](https://www.youtube.com/watch?v=RbMc2nAWm_0&list=PLaiWwFV4pKpGx8kPC0bBzU_57ySe9Np86)
 
 ### Veri Tabanı 
+![Database](https://github.com/alkanmert/FileManagementSystem/assets/73124727/c17b94cf-d1ba-45c2-9b6d-98412a7d5fda)
